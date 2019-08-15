@@ -1,3 +1,7 @@
+---
+layout: post
+title: spark의 기본 개념.
+---
 ## spark basic concepts
 
 - 스파크 어플리케이션은 드라이버(driver) 프로세스와 익스큐터(excutor)프로세스로 구성되어 있음.
