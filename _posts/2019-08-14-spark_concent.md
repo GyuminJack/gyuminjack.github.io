@@ -1,7 +1,7 @@
 ---
 layout: post
 title: spark의 기본 개념.
-category : [deep learninig, dev]
+category : [deep learning, dev]
 ---
 ## spark basic concepts
 
