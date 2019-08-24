@@ -1,6 +1,7 @@
 ---
 layout: post
 title: spark의 기본 개념.
+category : dl
 ---
 ## spark basic concepts
 
