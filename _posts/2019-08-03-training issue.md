@@ -1,3 +1,9 @@
+---
+layout: post
+title: training이 안되는 이유 찾기
+category : deep learning
+---
+
 training이 잘 안될때 만큼 신경쓰이는게 없다..
 - loss가 너무 떨어져서 overfitting (validation set으로 확인해야)
     - overfitting이 underfitting보다 잘 일어 나는 느낌이 있음.

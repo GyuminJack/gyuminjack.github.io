@@ -1,6 +1,10 @@
+---
+layout: post
+title: evaluation / PR / Recall
+category : deep learning
+---
+
 ####classification 이후 사용할 수 있는 평가 metric정리
-
-
 1. precision : P($Y=1$|$\hat{Y}=1$) 
 2. recall(sensitivity) : P($\hat{Y}=1$|$Y=1$)
 3. specificity(FPR) : P($\hat{Y}=0$|$Y=0$)
